@@ -3,9 +3,6 @@ accountsservice
 acl
 acpid
 adduser
-apache2-bin
-apache2-doc
-apache2-suexec-custom
 apparmor
 apport
 apport-symptoms
